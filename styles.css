@@ -1,0 +1,15 @@
+.class1{
+    background-color: white;
+    color: black;
+}
+.class2{
+    background-color: black;
+    color: white;
+}
+#myBtn{
+    margin-top: 10%;
+    margin-left: 50%;
+    border-radius: 20px;
+    height: 34px;
+}
+
